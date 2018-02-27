@@ -1,0 +1,2 @@
+1. Run the following commands to compile:
+`g++ -std=c++14 ./can-be-connected.cpp -o can-connect && g++ -std=c++14 ./change-date-formats.cpp -o date-format` or use CMake to do a build in another folder.
